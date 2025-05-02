@@ -78,9 +78,9 @@ public class TransactionsGenerator {
 
         // Write the transactions to the file
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
-            // Write the header line (BUG: "/n" should be "\n")
-            String header = "date|time|description|vendor|amount";
-            writer.write(header + "/n"); // BUG: Incorrect newline character
+            // Write the header line
+            String header = "date|time|description|vendor|amount\n";
+            writer.write(header);
 
             // Write each transaction as a line
             for (Transaction transaction : transactions) {
