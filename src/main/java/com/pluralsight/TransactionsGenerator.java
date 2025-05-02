@@ -41,7 +41,7 @@ public class TransactionsGenerator {
         String filePath = "src/main/resources/transactions.csv";
 
         // Define how many fake transactions to generate
-        int numberOfTransactions = 1000;
+        int numberOfTransactions = 200;
 
         // Create a list to hold the generated transactions
         ArrayList<Transaction> transactions = new ArrayList<>();
@@ -74,7 +74,7 @@ public class TransactionsGenerator {
         }
 
         // Sort transactions by date/time (assuming Comparable implemented)
-        Collections.sort(transactions);
+        Collections.sort(transactions,Collections.reverseOrder());
 
         // Write the transactions to the file
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {

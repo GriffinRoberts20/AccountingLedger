@@ -530,7 +530,7 @@ public class AccountingLedgerApp {
 
     public static void updateTransactions(ArrayList<Transaction> transactions) {
         // Sort transactions (assumes Transaction class implements Comparable)
-        Collections.sort(transactions);
+        Collections.sort(transactions,Collections.reverseOrder());
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(transactionsFilePath))) {
             // Write header row

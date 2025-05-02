@@ -1,1001 +1,201 @@
 date|time|description|vendor|amount
-2024-05-01|21:06:39|Deposit|Venmo|90.00
-2024-05-02|00:53:57|Payment|Chipotle|-448.95
-2024-05-02|09:22:40|Deposit|Work|323.81
-2024-05-02|15:12:09|Payment|Subway|-421.42
-2024-05-02|16:19:11|Payment|Home Depot|-621.58
-2024-05-02|21:11:15|Purchase|Airbnb|-76.93
-2024-05-04|04:57:03|Payment|Best Buy|-774.90
-2024-05-04|08:54:48|Purchase|Shell Gas|-427.54
-2024-05-04|09:44:01|Deposit|Work|797.35
-2024-05-04|09:47:03|Payment|Target|-396.02
-2024-05-05|05:11:37|Deposit|Venmo|542.59
-2024-05-05|06:04:55|Deposit|Work|358.91
-2024-05-05|19:53:05|Payment|Costco|-302.81
-2024-05-06|13:23:32|Payment|Chipotle|-640.40
-2024-05-06|21:36:41|Deposit|PayPal|335.41
-2024-05-07|02:16:23|Deposit|Work|186.80
-2024-05-07|03:07:11|Purchase|Domino's Pizza|-842.14
-2024-05-07|03:52:48|Deposit|Venmo|777.18
-2024-05-07|05:30:58|Purchase|Airbnb|-419.11
-2024-05-07|07:22:09|Purchase|Shell Gas|-13.69
-2024-05-07|19:18:46|Purchase|Starbucks|-620.84
-2024-05-08|09:06:27|Payment|BP Gas Station|-229.26
-2024-05-08|17:11:24|Deposit|PayPal|855.20
-2024-05-09|02:45:50|Deposit|PayPal|892.83
-2024-05-09|05:01:19|Deposit|Venmo|440.04
-2024-05-09|08:05:12|Purchase|Google|-325.80
-2024-05-09|09:18:51|Deposit|PayPal|663.05
-2024-05-09|13:10:53|Deposit|PayPal|151.87
-2024-05-09|16:25:32|Payment|Uber Eats|-886.15
-2024-05-09|23:31:56|Payment|Subway|-97.46
-2024-05-10|04:35:10|Deposit|Work|485.16
-2024-05-10|08:57:27|Purchase|Subway|-66.73
-2024-05-10|14:33:53|Purchase|Spotify|-554.08
-2024-05-11|04:24:44|Payment|Google|-624.15
-2024-05-11|17:44:29|Deposit|Work|900.34
-2024-05-12|07:29:00|Deposit|PayPal|868.18
-2024-05-12|13:17:17|Purchase|Chipotle|-47.04
-2024-05-12|15:35:30|Deposit|Work|605.64
-2024-05-13|02:30:37|Deposit|Venmo|324.99
-2024-05-14|13:18:25|Payment|McDonald's|-700.95
-2024-05-14|20:31:27|Purchase|Panera Bread|-396.17
-2024-05-15|16:57:52|Payment|Lyft|-342.59
-2024-05-16|00:21:00|Payment|Netflix|-295.25
-2024-05-16|02:19:27|Deposit|Work|542.03
-2024-05-16|03:22:42|Purchase|Starbucks|-649.39
-2024-05-16|05:30:35|Payment|Amazon|-845.77
-2024-05-16|08:13:42|Deposit|Venmo|473.70
-2024-05-17|01:07:19|Deposit|Venmo|101.41
-2024-05-17|06:46:49|Deposit|Work|421.60
-2024-05-17|10:24:28|Payment|Chipotle|-205.35
-2024-05-17|21:23:31|Deposit|Work|366.63
-2024-05-17|22:42:52|Purchase|Walgreens|-187.76
-2024-05-18|02:34:10|Purchase|Netflix|-583.89
-2024-05-18|03:12:50|Deposit|Venmo|963.33
-2024-05-18|16:31:01|Deposit|Work|957.65
-2024-05-18|19:12:35|Payment|Domino's Pizza|-815.08
-2024-05-18|20:12:40|Deposit|PayPal|276.94
-2024-05-18|23:50:21|Purchase|Costco|-396.25
-2024-05-19|14:41:00|Payment|Uber Eats|-404.01
-2024-05-19|17:17:04|Purchase|Lyft|-456.52
-2024-05-20|05:35:12|Deposit|Work|356.84
-2024-05-20|23:23:58|Deposit|Venmo|160.00
-2024-05-21|14:03:22|Deposit|Venmo|282.75
-2024-05-21|19:52:20|Deposit|Venmo|242.34
-2024-05-21|23:36:51|Purchase|Shell Gas|-805.43
-2024-05-22|00:26:05|Payment|Costco|-391.48
-2024-05-22|09:48:06|Payment|Walgreens|-815.65
-2024-05-22|09:52:24|Deposit|Work|47.84
-2024-05-22|16:07:48|Payment|Amazon|-699.99
-2024-05-22|19:41:33|Payment|Walmart|-211.41
-2024-05-22|22:49:37|Purchase|DoorDash|-900.55
-2024-05-23|02:27:09|Deposit|PayPal|234.41
-2024-05-23|02:40:25|Deposit|PayPal|792.89
-2024-05-23|17:40:22|Payment|Apple|-656.83
-2024-05-24|05:42:15|Deposit|PayPal|293.18
-2024-05-24|05:56:57|Payment|Netflix|-957.06
-2024-05-24|09:50:28|Purchase|Shell Gas|-723.00
-2024-05-24|12:17:16|Deposit|Work|653.70
-2024-05-24|14:53:35|Deposit|PayPal|257.74
-2024-05-24|20:15:50|Payment|McDonald's|-245.37
-2024-05-25|03:32:55|Payment|McDonald's|-397.53
-2024-05-25|09:00:15|Deposit|Venmo|416.22
-2024-05-26|13:07:43|Deposit|Work|478.08
-2024-05-26|14:52:26|Payment|Netflix|-423.59
-2024-05-27|14:17:23|Deposit|Venmo|548.32
-2024-05-28|08:59:42|Purchase|Costco|-619.75
-2024-05-28|09:31:07|Deposit|Venmo|155.84
-2024-05-29|07:10:34|Payment|Domino's Pizza|-739.68
-2024-05-29|09:45:27|Payment|Google|-36.14
-2024-05-29|15:43:31|Payment|Domino's Pizza|-611.48
-2024-05-29|18:55:58|Purchase|Airbnb|-806.03
-2024-05-29|19:44:16|Deposit|Work|167.56
-2024-05-30|12:13:44|Purchase|eBay|-809.37
-2024-05-30|13:11:06|Payment|McDonald's|-207.67
-2024-05-30|13:40:10|Deposit|PayPal|641.15
-2024-05-31|02:11:17|Deposit|Work|213.74
-2024-05-31|07:14:50|Deposit|Work|633.03
-2024-05-31|20:32:11|Payment|Apple|-831.32
-2024-05-31|20:45:31|Deposit|Venmo|673.12
-2024-06-01|03:44:52|Deposit|Work|417.66
-2024-06-01|06:26:48|Deposit|Work|685.91
-2024-06-01|09:39:28|Payment|Home Depot|-210.87
-2024-06-01|21:23:17|Payment|Target|-21.87
-2024-06-02|10:19:38|Deposit|PayPal|735.34
-2024-06-02|10:56:55|Purchase|CVS Pharmacy|-699.55
-2024-06-02|13:37:53|Deposit|Venmo|693.12
-2024-06-02|23:21:54|Deposit|PayPal|604.70
-2024-06-03|07:01:50|Payment|DoorDash|-481.27
-2024-06-03|12:17:12|Deposit|PayPal|363.69
-2024-06-03|14:58:37|Deposit|PayPal|694.00
-2024-06-03|20:12:55|Purchase|CVS Pharmacy|-529.58
-2024-06-04|00:35:42|Payment|Chipotle|-516.88
-2024-06-04|00:36:31|Payment|Amazon|-527.92
-2024-06-04|15:50:01|Payment|DoorDash|-411.46
-2024-06-04|18:32:38|Deposit|Venmo|970.52
-2024-06-04|21:55:19|Deposit|PayPal|361.36
-2024-06-05|07:13:05|Deposit|PayPal|604.20
-2024-06-06|10:25:00|Deposit|Work|862.01
-2024-06-06|12:39:43|Deposit|Work|913.03
-2024-06-06|14:18:30|Deposit|Venmo|228.16
-2024-06-07|00:07:01|Deposit|Work|12.25
-2024-06-07|03:37:42|Payment|Subway|-118.28
-2024-06-07|08:38:15|Purchase|Netflix|-725.53
-2024-06-08|02:42:27|Payment|Apple|-852.75
-2024-06-08|19:52:04|Deposit|Venmo|682.34
-2024-06-08|20:21:40|Purchase|Netflix|-472.99
-2024-06-09|03:27:41|Deposit|Work|319.34
-2024-06-09|10:58:06|Payment|Target|-991.80
-2024-06-09|13:39:57|Deposit|PayPal|485.39
-2024-06-10|15:45:30|Deposit|Work|285.82
-2024-06-12|02:53:11|Payment|Netflix|-392.75
-2024-06-12|07:49:03|Deposit|PayPal|312.98
-2024-06-12|11:22:40|Payment|Chipotle|-916.49
-2024-06-12|20:43:30|Purchase|DoorDash|-864.74
-2024-06-12|22:00:00|Deposit|Work|609.45
-2024-06-13|04:32:40|Payment|Apple|-403.32
-2024-06-13|14:26:27|Purchase|McDonald's|-612.41
-2024-06-13|17:41:03|Payment|eBay|-693.10
-2024-06-14|12:19:56|Purchase|CVS Pharmacy|-769.44
-2024-06-14|12:21:49|Deposit|Venmo|240.39
-2024-06-15|03:04:38|Deposit|PayPal|118.89
-2024-06-15|15:28:17|Deposit|PayPal|758.83
-2024-06-15|20:21:53|Deposit|Work|625.27
-2024-06-16|04:52:20|Payment|McDonald's|-283.29
-2024-06-16|13:16:59|Payment|Lyft|-534.30
-2024-06-16|21:32:50|Deposit|Venmo|561.85
-2024-06-17|04:06:56|Deposit|Venmo|160.44
-2024-06-17|17:49:54|Deposit|Work|230.63
-2024-06-18|03:46:02|Deposit|Work|897.52
-2024-06-18|06:41:19|Deposit|Work|114.00
-2024-06-19|07:17:31|Payment|Walgreens|-622.25
-2024-06-19|10:57:14|Purchase|Lyft|-314.13
-2024-06-19|18:59:27|Purchase|Starbucks|-426.70
-2024-06-20|02:40:07|Deposit|Venmo|797.07
-2024-06-20|07:25:15|Payment|Netflix|-768.77
-2024-06-21|06:51:27|Payment|eBay|-329.70
-2024-06-21|15:38:54|Deposit|Work|359.13
-2024-06-22|01:54:52|Deposit|Work|932.88
-2024-06-22|07:56:55|Deposit|PayPal|172.37
-2024-06-22|20:05:28|Deposit|PayPal|290.72
-2024-06-22|21:13:12|Payment|Best Buy|-771.66
-2024-06-23|02:23:58|Deposit|Work|899.31
-2024-06-23|17:40:39|Payment|Google|-578.23
-2024-06-23|18:05:14|Deposit|PayPal|21.11
-2024-06-23|23:59:53|Deposit|Work|448.24
-2024-06-24|01:53:14|Payment|McDonald's|-544.19
-2024-06-24|05:49:36|Payment|Home Depot|-943.66
-2024-06-24|08:15:05|Purchase|eBay|-51.84
-2024-06-24|19:41:25|Deposit|Work|614.05
-2024-06-24|22:12:29|Purchase|Domino's Pizza|-419.63
-2024-06-25|00:40:54|Purchase|Chipotle|-558.02
-2024-06-25|14:35:37|Payment|Best Buy|-368.56
-2024-06-26|04:01:52|Deposit|Venmo|705.12
-2024-06-26|14:09:49|Deposit|Work|638.85
-2024-06-27|03:24:43|Payment|Lyft|-785.11
-2024-06-27|08:49:37|Payment|Best Buy|-563.85
-2024-06-27|11:24:24|Deposit|PayPal|981.50
-2024-06-27|20:58:51|Payment|Walgreens|-783.00
-2024-06-27|21:57:34|Purchase|eBay|-877.72
-2024-06-27|23:50:38|Payment|Panera Bread|-891.46
-2024-06-28|06:30:07|Deposit|Venmo|292.18
-2024-06-29|16:49:48|Deposit|Venmo|965.73
-2024-06-30|00:16:24|Deposit|Work|729.75
-2024-06-30|09:21:13|Payment|BP Gas Station|-168.07
-2024-06-30|12:25:01|Deposit|PayPal|533.76
-2024-06-30|14:18:40|Purchase|Netflix|-297.75
-2024-07-01|01:40:00|Purchase|McDonald's|-479.54
-2024-07-01|18:20:21|Deposit|Work|129.25
-2024-07-02|01:41:01|Deposit|Work|418.61
-2024-07-02|02:21:24|Deposit|PayPal|99.18
-2024-07-02|11:24:34|Deposit|PayPal|777.00
-2024-07-02|16:08:14|Deposit|Work|190.83
-2024-07-02|19:19:08|Payment|Airbnb|-79.92
-2024-07-02|21:09:23|Purchase|Best Buy|-443.31
-2024-07-03|04:04:02|Deposit|PayPal|245.80
-2024-07-03|08:31:07|Deposit|Venmo|774.84
-2024-07-04|10:16:39|Deposit|Venmo|970.46
-2024-07-04|21:25:12|Purchase|Home Depot|-65.03
-2024-07-05|02:27:12|Deposit|Work|606.60
-2024-07-05|06:56:48|Deposit|Work|395.09
-2024-07-06|07:25:17|Payment|BP Gas Station|-17.75
-2024-07-07|07:43:00|Payment|Chipotle|-723.82
-2024-07-07|08:25:29|Payment|Starbucks|-767.42
-2024-07-07|12:58:18|Purchase|Best Buy|-940.26
-2024-07-07|18:24:19|Purchase|Costco|-22.60
-2024-07-07|18:25:13|Deposit|Venmo|65.66
-2024-07-07|23:01:25|Payment|BP Gas Station|-314.07
-2024-07-08|04:17:18|Deposit|Work|409.73
-2024-07-08|04:30:25|Payment|Home Depot|-135.39
-2024-07-08|09:18:57|Payment|Home Depot|-513.28
-2024-07-08|23:20:14|Purchase|Google|-401.46
-2024-07-09|03:03:25|Purchase|Airbnb|-37.88
-2024-07-09|10:16:15|Deposit|Venmo|267.43
-2024-07-10|03:28:28|Deposit|PayPal|561.57
-2024-07-10|12:37:54|Purchase|McDonald's|-153.12
-2024-07-10|15:58:39|Deposit|PayPal|893.76
-2024-07-11|13:21:33|Deposit|Work|673.79
-2024-07-11|18:43:37|Payment|Google|-979.40
-2024-07-11|20:35:35|Deposit|PayPal|666.14
-2024-07-12|05:11:00|Purchase|Walmart|-115.46
-2024-07-12|08:01:28|Purchase|eBay|-973.48
-2024-07-12|12:08:29|Payment|Amazon|-471.19
-2024-07-12|13:24:36|Purchase|Lyft|-919.85
-2024-07-12|20:19:00|Deposit|Work|376.85
-2024-07-14|05:04:12|Deposit|Venmo|301.93
-2024-07-14|18:05:01|Deposit|Work|714.03
-2024-07-14|21:44:02|Deposit|Venmo|308.87
-2024-07-15|23:47:38|Payment|Home Depot|-203.15
-2024-07-16|00:25:22|Payment|Apple|-40.49
-2024-07-16|14:37:26|Payment|CVS Pharmacy|-489.86
-2024-07-17|13:00:51|Deposit|Work|78.96
-2024-07-17|23:45:04|Deposit|Work|444.94
-2024-07-18|22:29:41|Deposit|Venmo|898.18
-2024-07-19|01:08:46|Deposit|PayPal|410.90
-2024-07-19|16:56:13|Deposit|Work|810.79
-2024-07-20|12:48:23|Purchase|Target|-516.04
-2024-07-20|20:27:19|Payment|DoorDash|-909.10
-2024-07-21|05:23:59|Deposit|Venmo|715.60
-2024-07-21|19:44:00|Purchase|Panera Bread|-294.12
-2024-07-22|01:33:22|Purchase|McDonald's|-80.77
-2024-07-23|16:46:08|Deposit|Work|397.12
-2024-07-23|17:37:01|Purchase|Apple|-778.27
-2024-07-23|17:40:01|Payment|Lyft|-243.03
-2024-07-23|19:56:05|Deposit|Venmo|904.28
-2024-07-24|10:28:20|Payment|CVS Pharmacy|-653.07
-2024-07-25|10:54:01|Purchase|Apple|-405.06
-2024-07-25|16:51:56|Deposit|PayPal|297.34
-2024-07-25|18:07:18|Payment|Walmart|-890.93
-2024-07-28|01:27:13|Deposit|Work|625.12
-2024-07-28|11:23:16|Deposit|Venmo|841.44
-2024-07-28|13:03:09|Deposit|PayPal|209.50
-2024-07-28|14:38:14|Payment|Airbnb|-701.22
-2024-07-29|04:50:44|Deposit|PayPal|661.46
-2024-07-30|03:25:32|Payment|Chipotle|-340.66
-2024-07-30|07:51:14|Deposit|PayPal|282.31
-2024-07-30|19:58:39|Payment|Home Depot|-80.10
-2024-07-30|20:43:21|Deposit|Venmo|34.58
-2024-07-30|21:40:47|Payment|Spotify|-739.37
-2024-08-01|14:53:52|Payment|Apple|-225.56
-2024-08-01|20:02:00|Purchase|Lyft|-641.39
-2024-08-01|20:33:13|Payment|Netflix|-755.84
-2024-08-02|02:09:06|Deposit|Work|362.90
-2024-08-02|13:30:41|Purchase|DoorDash|-632.39
-2024-08-02|23:30:37|Purchase|Subway|-393.66
-2024-08-03|03:16:08|Deposit|PayPal|161.72
-2024-08-03|15:34:49|Purchase|Walmart|-650.74
-2024-08-03|21:04:55|Deposit|PayPal|141.35
-2024-08-04|20:32:12|Deposit|Work|726.99
-2024-08-05|04:36:01|Deposit|Work|788.48
-2024-08-05|15:46:38|Purchase|DoorDash|-160.97
-2024-08-06|00:47:46|Deposit|PayPal|91.29
-2024-08-06|16:22:43|Deposit|PayPal|601.20
-2024-08-06|21:46:22|Purchase|Netflix|-801.21
-2024-08-07|00:51:06|Deposit|Work|746.82
-2024-08-07|03:59:38|Purchase|Domino's Pizza|-810.77
-2024-08-07|16:52:39|Deposit|Venmo|642.01
-2024-08-08|00:17:55|Purchase|Chipotle|-623.45
-2024-08-08|09:20:02|Deposit|Work|209.01
-2024-08-08|23:37:45|Deposit|Work|709.62
-2024-08-10|01:32:48|Deposit|Venmo|339.60
-2024-08-11|15:27:59|Purchase|Starbucks|-808.80
-2024-08-11|18:10:55|Payment|Home Depot|-898.45
-2024-08-13|21:31:02|Deposit|Venmo|539.33
-2024-08-13|22:36:13|Deposit|Work|295.55
-2024-08-14|10:44:40|Deposit|Venmo|691.83
-2024-08-14|14:07:26|Payment|BP Gas Station|-726.63
-2024-08-14|14:14:12|Deposit|Venmo|499.66
-2024-08-14|15:08:09|Purchase|Google|-379.13
-2024-08-14|16:13:27|Deposit|PayPal|900.82
-2024-08-14|21:12:32|Purchase|Netflix|-651.30
-2024-08-14|21:52:21|Deposit|PayPal|24.22
-2024-08-15|00:46:58|Payment|Walgreens|-164.46
-2024-08-15|00:57:11|Deposit|Work|101.70
-2024-08-15|01:10:12|Payment|Apple|-663.61
-2024-08-16|09:18:59|Deposit|Work|364.14
-2024-08-17|06:38:23|Purchase|Spotify|-955.16
-2024-08-17|08:25:30|Purchase|Starbucks|-796.24
-2024-08-17|19:09:31|Payment|Costco|-934.23
-2024-08-18|03:05:10|Deposit|Venmo|351.90
-2024-08-18|15:52:45|Payment|DoorDash|-966.92
-2024-08-19|23:59:00|Payment|Amazon|-351.51
-2024-08-20|04:14:14|Payment|Panera Bread|-689.59
-2024-08-20|05:50:58|Deposit|PayPal|933.72
-2024-08-20|11:44:35|Purchase|Target|-845.29
-2024-08-20|18:54:36|Deposit|Work|264.80
-2024-08-21|22:56:08|Payment|Walmart|-548.35
-2024-08-21|22:56:53|Deposit|PayPal|339.68
-2024-08-22|09:13:52|Deposit|Work|108.16
-2024-08-23|23:46:11|Purchase|BP Gas Station|-994.43
-2024-08-24|04:48:04|Payment|Target|-17.25
-2024-08-24|19:17:07|Deposit|Venmo|92.63
-2024-08-25|01:54:06|Purchase|Best Buy|-616.33
-2024-08-25|17:54:58|Deposit|Venmo|542.94
-2024-08-25|18:02:45|Deposit|PayPal|203.33
-2024-08-26|00:30:51|Purchase|Amazon|-883.90
-2024-08-27|23:35:18|Purchase|Home Depot|-826.50
-2024-08-28|09:02:53|Payment|Panera Bread|-740.09
-2024-08-29|02:15:06|Payment|Airbnb|-413.81
-2024-08-29|09:10:57|Purchase|CVS Pharmacy|-808.37
-2024-08-29|10:07:39|Deposit|Venmo|420.44
-2024-08-29|11:40:20|Deposit|PayPal|159.37
-2024-08-29|14:41:29|Deposit|Work|49.85
-2024-08-30|07:18:11|Payment|Home Depot|-265.33
-2024-08-30|10:20:24|Deposit|Venmo|73.81
-2024-08-30|21:40:48|Deposit|Work|439.06
-2024-08-31|09:21:47|Deposit|PayPal|200.85
-2024-09-01|12:58:21|Payment|Shell Gas|-617.95
-2024-09-01|19:22:46|Deposit|Venmo|151.40
-2024-09-02|02:25:23|Deposit|Venmo|788.34
-2024-09-02|12:28:37|Payment|eBay|-98.66
-2024-09-02|12:50:56|Deposit|PayPal|351.47
-2024-09-03|00:50:52|Deposit|Work|628.73
-2024-09-03|04:12:22|Deposit|Venmo|925.43
-2024-09-04|10:21:57|Deposit|Venmo|600.08
-2024-09-04|13:32:30|Deposit|PayPal|31.51
-2024-09-04|15:23:11|Deposit|Work|263.10
-2024-09-04|21:34:24|Deposit|Work|511.24
-2024-09-05|15:04:38|Payment|Best Buy|-744.87
-2024-09-06|19:38:40|Deposit|Work|645.56
-2024-09-06|22:07:43|Payment|eBay|-715.14
-2024-09-06|22:21:33|Purchase|Subway|-483.30
-2024-09-07|00:55:23|Payment|DoorDash|-400.02
-2024-09-07|06:09:24|Payment|Uber Eats|-608.78
-2024-09-07|06:29:55|Payment|DoorDash|-203.94
-2024-09-07|11:14:20|Deposit|PayPal|822.37
-2024-09-07|16:12:16|Purchase|Walgreens|-453.90
-2024-09-07|22:46:36|Purchase|Panera Bread|-87.20
-2024-09-08|10:22:06|Purchase|Airbnb|-678.62
-2024-09-08|19:47:16|Deposit|PayPal|864.66
-2024-09-09|04:26:24|Payment|Domino's Pizza|-587.38
-2024-09-10|06:30:29|Deposit|PayPal|493.38
-2024-09-10|23:46:30|Deposit|Work|969.59
-2024-09-11|04:15:22|Deposit|Venmo|810.10
-2024-09-12|16:29:14|Purchase|Google|-890.82
-2024-09-12|22:17:44|Purchase|Airbnb|-553.39
-2024-09-12|22:23:43|Deposit|Work|385.29
-2024-09-13|04:16:38|Deposit|Work|201.20
-2024-09-13|22:19:42|Deposit|PayPal|509.45
-2024-09-14|14:18:59|Deposit|PayPal|155.24
-2024-09-14|14:52:56|Deposit|PayPal|886.93
-2024-09-15|16:03:43|Purchase|Domino's Pizza|-608.25
-2024-09-16|03:57:37|Purchase|eBay|-593.18
-2024-09-16|14:16:13|Deposit|PayPal|957.23
-2024-09-16|14:55:39|Payment|DoorDash|-352.27
-2024-09-16|15:21:34|Deposit|PayPal|522.09
-2024-09-16|20:10:10|Payment|Google|-552.15
-2024-09-17|06:03:30|Purchase|Chipotle|-651.53
-2024-09-17|07:21:07|Deposit|Work|192.03
-2024-09-18|13:28:52|Deposit|PayPal|871.21
-2024-09-18|20:56:54|Purchase|CVS Pharmacy|-476.76
-2024-09-20|10:16:22|Payment|Walgreens|-288.05
-2024-09-20|12:25:24|Payment|Shell Gas|-718.16
-2024-09-21|21:23:55|Deposit|Venmo|269.02
-2024-09-22|04:10:43|Deposit|PayPal|416.86
-2024-09-22|06:41:36|Deposit|Venmo|544.79
-2024-09-22|08:41:34|Deposit|Venmo|977.20
-2024-09-22|17:33:45|Purchase|Netflix|-533.20
-2024-09-22|22:26:37|Payment|DoorDash|-311.26
-2024-09-23|11:39:48|Deposit|Work|470.95
-2024-09-24|02:21:15|Deposit|Venmo|553.02
-2024-09-24|17:19:25|Purchase|Apple|-484.65
-2024-09-24|20:34:17|Purchase|Amazon|-667.99
-2024-09-25|10:17:07|Deposit|PayPal|65.51
-2024-09-25|20:03:02|Purchase|eBay|-667.19
-2024-09-25|21:14:35|Deposit|PayPal|81.26
-2024-09-25|21:45:41|Deposit|Venmo|481.24
-2024-09-26|01:02:04|Purchase|Lyft|-264.15
-2024-09-26|02:47:54|Purchase|Walgreens|-739.35
-2024-09-26|10:11:08|Deposit|Work|995.79
-2024-09-26|11:54:29|Purchase|Airbnb|-100.62
-2024-09-26|18:48:25|Deposit|Work|995.73
-2024-09-27|05:31:31|Purchase|Google|-36.11
-2024-09-27|11:47:36|Deposit|PayPal|680.24
-2024-09-27|20:38:25|Deposit|PayPal|806.81
-2024-09-28|08:31:00|Deposit|Work|449.29
-2024-09-29|03:39:45|Purchase|Starbucks|-985.29
-2024-09-29|06:32:21|Deposit|Venmo|224.10
-2024-09-29|20:34:38|Deposit|Venmo|183.72
-2024-09-30|03:41:47|Purchase|Amazon|-851.32
-2024-09-30|10:12:59|Deposit|Work|941.41
-2024-09-30|21:48:48|Payment|Home Depot|-791.52
-2024-10-01|00:01:48|Payment|Costco|-662.87
-2024-10-01|03:53:06|Purchase|Walmart|-700.92
-2024-10-01|06:27:39|Deposit|Venmo|104.18
-2024-10-01|21:23:06|Payment|McDonald's|-479.26
-2024-10-02|07:23:49|Deposit|Venmo|144.21
-2024-10-03|15:14:13|Deposit|Venmo|328.84
-2024-10-03|17:00:24|Payment|Airbnb|-285.03
-2024-10-04|00:14:40|Payment|Lyft|-846.54
-2024-10-04|00:31:03|Deposit|Venmo|549.67
-2024-10-04|04:27:56|Payment|Starbucks|-683.86
-2024-10-04|08:46:14|Purchase|Netflix|-377.26
-2024-10-04|16:36:31|Purchase|Target|-248.59
-2024-10-04|20:14:15|Purchase|Best Buy|-44.23
-2024-10-05|17:21:31|Payment|Lyft|-895.20
-2024-10-05|19:00:34|Purchase|Chipotle|-665.00
-2024-10-06|04:44:04|Payment|Lyft|-213.66
-2024-10-06|09:41:37|Deposit|Work|862.69
-2024-10-06|17:13:40|Purchase|DoorDash|-923.74
-2024-10-06|19:20:17|Deposit|Venmo|140.46
-2024-10-07|06:22:38|Deposit|PayPal|389.98
-2024-10-07|23:00:59|Deposit|PayPal|601.31
-2024-10-09|01:30:41|Payment|DoorDash|-450.83
-2024-10-09|10:47:41|Deposit|PayPal|54.18
-2024-10-09|18:23:13|Payment|Uber Eats|-131.03
-2024-10-09|20:06:44|Purchase|Panera Bread|-611.64
-2024-10-11|02:46:17|Deposit|Work|787.04
-2024-10-11|03:29:43|Payment|Subway|-909.68
-2024-10-11|04:28:22|Deposit|PayPal|818.14
-2024-10-11|07:35:39|Purchase|Netflix|-99.41
-2024-10-11|13:40:02|Deposit|PayPal|592.30
-2024-10-11|18:50:23|Deposit|Venmo|34.82
-2024-10-12|06:19:29|Deposit|Venmo|767.58
-2024-10-13|18:27:38|Deposit|Venmo|574.13
-2024-10-13|19:49:21|Deposit|Work|378.78
-2024-10-13|20:13:10|Deposit|PayPal|454.50
-2024-10-13|20:54:57|Payment|Apple|-466.04
-2024-10-14|00:08:26|Deposit|PayPal|408.29
-2024-10-14|02:52:40|Deposit|Work|262.43
-2024-10-14|05:35:49|Purchase|CVS Pharmacy|-851.01
-2024-10-14|15:05:38|Purchase|Walmart|-661.57
-2024-10-14|18:49:32|Deposit|Venmo|568.47
-2024-10-15|00:09:44|Payment|BP Gas Station|-385.00
-2024-10-15|01:04:24|Deposit|Work|637.58
-2024-10-15|01:57:35|Deposit|Work|672.31
-2024-10-15|17:48:53|Purchase|Subway|-494.69
-2024-10-15|20:54:39|Deposit|Work|917.54
-2024-10-16|00:24:08|Deposit|PayPal|955.56
-2024-10-16|03:44:15|Payment|Lyft|-20.07
-2024-10-16|05:25:40|Payment|Lyft|-147.62
-2024-10-16|13:10:04|Purchase|Lyft|-725.60
-2024-10-16|17:24:51|Deposit|Work|942.13
-2024-10-17|17:04:25|Purchase|Shell Gas|-682.29
-2024-10-18|04:12:12|Purchase|Target|-837.64
-2024-10-18|17:20:58|Deposit|PayPal|53.22
-2024-10-18|19:40:13|Deposit|Work|833.22
-2024-10-18|19:44:40|Deposit|PayPal|68.24
-2024-10-19|12:47:46|Deposit|PayPal|195.35
-2024-10-20|05:01:27|Deposit|Work|135.09
-2024-10-20|06:27:39|Deposit|Venmo|499.42
-2024-10-22|08:42:49|Purchase|Subway|-668.35
-2024-10-22|11:42:30|Deposit|PayPal|740.39
-2024-10-22|21:09:32|Deposit|Venmo|444.21
-2024-10-23|02:45:06|Payment|Target|-707.13
-2024-10-23|20:17:50|Payment|McDonald's|-12.84
-2024-10-23|23:17:12|Purchase|Airbnb|-315.50
-2024-10-24|04:45:32|Deposit|PayPal|901.95
-2024-10-24|15:32:39|Purchase|Subway|-826.54
-2024-10-24|15:53:06|Purchase|Home Depot|-839.88
-2024-10-24|20:27:36|Payment|McDonald's|-652.91
-2024-10-24|22:52:54|Deposit|PayPal|195.89
-2024-10-25|15:44:33|Deposit|PayPal|166.46
-2024-10-25|15:55:31|Deposit|PayPal|602.21
-2024-10-25|20:59:21|Deposit|Work|303.57
-2024-10-26|01:09:27|Purchase|Best Buy|-533.00
-2024-10-26|01:59:52|Deposit|PayPal|443.98
-2024-10-26|14:36:37|Payment|Domino's Pizza|-625.05
-2024-10-27|01:33:27|Payment|Walgreens|-934.20
-2024-10-27|05:45:37|Payment|Best Buy|-949.93
-2024-10-27|15:08:15|Deposit|Venmo|868.84
-2024-10-28|05:54:10|Deposit|Work|583.56
-2024-10-28|06:25:37|Deposit|PayPal|189.23
-2024-10-28|16:54:56|Payment|Walmart|-136.19
-2024-10-29|10:20:58|Purchase|Starbucks|-26.90
-2024-10-29|22:31:41|Deposit|Venmo|809.78
-2024-10-30|05:12:11|Purchase|Airbnb|-973.27
-2024-10-30|19:19:19|Deposit|PayPal|185.66
-2024-10-30|21:24:43|Deposit|PayPal|634.85
-2024-10-31|08:24:00|Payment|DoorDash|-131.22
-2024-10-31|10:09:32|Payment|BP Gas Station|-773.51
-2024-10-31|17:03:17|Payment|Target|-948.14
-2024-10-31|22:21:49|Deposit|Work|233.57
-2024-11-01|01:43:22|Payment|Apple|-979.97
-2024-11-01|10:19:52|Deposit|Work|429.73
-2024-11-01|10:27:13|Payment|Subway|-757.90
-2024-11-02|16:16:44|Purchase|McDonald's|-624.12
-2024-11-03|00:11:50|Purchase|Apple|-139.98
-2024-11-03|01:38:08|Purchase|Google|-842.57
-2024-11-03|09:25:41|Deposit|Work|68.37
-2024-11-03|21:03:30|Deposit|PayPal|410.43
-2024-11-03|21:44:23|Deposit|Work|177.98
-2024-11-03|23:51:05|Deposit|Venmo|863.45
-2024-11-04|01:55:50|Deposit|Work|763.12
-2024-11-04|21:35:37|Payment|Domino's Pizza|-740.40
-2024-11-05|07:50:50|Deposit|Venmo|935.00
-2024-11-05|14:30:11|Purchase|Amazon|-66.98
-2024-11-05|18:34:50|Deposit|Venmo|980.75
-2024-11-05|22:56:12|Deposit|Work|790.88
-2024-11-06|03:57:56|Purchase|Airbnb|-297.93
-2024-11-06|08:34:00|Deposit|PayPal|22.55
-2024-11-06|16:45:29|Payment|Target|-230.88
-2024-11-08|15:42:50|Payment|Spotify|-840.65
-2024-11-09|08:48:59|Deposit|Work|376.32
-2024-11-09|11:38:39|Deposit|Venmo|858.58
-2024-11-09|14:02:47|Deposit|PayPal|700.54
-2024-11-09|15:45:11|Deposit|Work|275.48
-2024-11-09|18:02:14|Payment|Airbnb|-779.00
-2024-11-09|22:37:40|Payment|Panera Bread|-559.12
-2024-11-10|17:43:40|Purchase|Best Buy|-217.40
-2024-11-10|22:59:12|Deposit|Venmo|462.60
-2024-11-11|01:09:43|Purchase|Google|-657.59
-2024-11-11|11:41:07|Deposit|Venmo|527.30
-2024-11-11|16:22:46|Deposit|Venmo|432.29
-2024-11-11|19:41:09|Deposit|Venmo|671.14
-2024-11-12|00:26:55|Purchase|Lyft|-508.54
-2024-11-12|09:00:44|Deposit|Work|323.68
-2024-11-12|09:48:12|Purchase|Shell Gas|-162.60
-2024-11-13|00:08:44|Deposit|Work|632.99
-2024-11-13|23:13:26|Purchase|Spotify|-837.51
-2024-11-14|03:10:08|Payment|McDonald's|-643.91
-2024-11-14|06:45:07|Deposit|Work|14.10
-2024-11-14|08:35:55|Payment|Subway|-191.17
-2024-11-14|10:57:10|Purchase|Netflix|-648.32
-2024-11-14|12:06:06|Purchase|Google|-941.40
-2024-11-14|22:06:19|Deposit|Work|843.94
-2024-11-15|05:02:12|Purchase|Google|-588.03
-2024-11-15|08:50:36|Payment|Amazon|-728.16
-2024-11-15|08:56:46|Deposit|Work|631.23
-2024-11-15|11:54:37|Purchase|Best Buy|-327.02
-2024-11-16|05:27:39|Deposit|Venmo|452.40
-2024-11-17|17:57:30|Payment|Amazon|-373.98
-2024-11-18|05:32:24|Payment|Walmart|-145.24
-2024-11-18|11:11:27|Deposit|PayPal|972.25
-2024-11-18|18:00:05|Payment|Costco|-412.99
-2024-11-18|18:33:04|Purchase|Walgreens|-965.22
-2024-11-19|14:40:33|Deposit|PayPal|833.13
-2024-11-21|21:00:02|Purchase|Netflix|-556.07
-2024-11-22|04:44:31|Payment|Domino's Pizza|-155.18
-2024-11-22|07:59:57|Payment|Chipotle|-555.28
-2024-11-22|08:07:21|Deposit|PayPal|579.50
-2024-11-22|20:19:41|Deposit|PayPal|386.94
-2024-11-23|10:16:07|Purchase|Subway|-249.89
-2024-11-25|17:10:12|Deposit|Venmo|218.25
-2024-11-25|19:40:53|Purchase|Chipotle|-198.06
-2024-11-25|22:15:55|Purchase|BP Gas Station|-407.07
-2024-11-25|23:28:48|Deposit|Work|170.22
-2024-11-26|14:47:11|Payment|Amazon|-927.92
-2024-11-26|17:21:54|Purchase|Airbnb|-380.06
-2024-11-27|12:14:00|Deposit|Venmo|966.02
-2024-11-27|20:09:43|Deposit|Venmo|732.73
-2024-11-28|16:58:52|Deposit|Work|650.66
-2024-11-28|20:41:50|Deposit|PayPal|500.74
-2024-11-29|00:19:52|Purchase|Airbnb|-130.65
-2024-11-29|06:33:27|Purchase|Google|-630.24
-2024-11-29|21:59:48|Purchase|Home Depot|-356.18
-2024-11-30|00:10:21|Deposit|Work|717.79
-2024-11-30|16:13:09|Deposit|Work|274.78
-2024-11-30|21:57:22|Payment|Walgreens|-326.72
-2024-11-30|22:52:13|Deposit|Venmo|410.31
-2024-12-01|23:06:03|Purchase|Target|-367.09
-2024-12-02|01:08:55|Payment|Google|-582.25
-2024-12-02|04:50:09|Deposit|Work|47.63
-2024-12-02|05:39:51|Deposit|Work|418.73
-2024-12-02|07:22:19|Purchase|Shell Gas|-852.27
-2024-12-02|09:37:39|Deposit|Work|567.58
-2024-12-02|13:42:09|Deposit|Work|373.55
-2024-12-03|01:58:25|Payment|Best Buy|-421.44
-2024-12-04|03:13:37|Purchase|Apple|-88.08
-2024-12-04|06:55:54|Deposit|Work|140.92
-2024-12-04|09:46:20|Payment|Amazon|-206.22
-2024-12-04|10:05:36|Deposit|PayPal|630.47
-2024-12-04|11:30:19|Payment|CVS Pharmacy|-747.11
-2024-12-05|10:18:36|Purchase|Costco|-692.56
-2024-12-05|17:14:27|Purchase|Spotify|-518.20
-2024-12-05|21:47:13|Payment|BP Gas Station|-221.27
-2024-12-06|01:36:40|Purchase|Walmart|-368.03
-2024-12-06|10:03:53|Payment|McDonald's|-159.17
-2024-12-06|15:22:51|Payment|Subway|-303.02
-2024-12-06|16:40:58|Purchase|Target|-308.51
-2024-12-07|01:11:49|Payment|CVS Pharmacy|-819.72
-2024-12-07|18:47:17|Payment|Netflix|-976.28
-2024-12-07|18:47:41|Payment|Home Depot|-802.02
-2024-12-07|20:13:13|Payment|Netflix|-986.45
-2024-12-07|23:11:45|Purchase|eBay|-388.31
-2024-12-08|09:54:55|Deposit|Venmo|170.60
-2024-12-08|20:30:35|Purchase|Apple|-144.49
-2024-12-09|11:06:25|Payment|Spotify|-444.84
-2024-12-09|18:19:55|Deposit|Work|332.83
-2024-12-09|19:53:21|Payment|Target|-157.38
-2024-12-10|02:14:54|Deposit|Venmo|835.51
-2024-12-11|05:51:03|Deposit|Venmo|236.15
-2024-12-11|12:39:16|Deposit|PayPal|735.55
-2024-12-11|16:18:56|Purchase|Panera Bread|-870.35
-2024-12-11|16:40:17|Deposit|PayPal|320.01
-2024-12-11|19:33:58|Purchase|Shell Gas|-713.13
-2024-12-12|00:32:18|Purchase|Panera Bread|-463.22
-2024-12-12|11:07:01|Payment|Target|-593.99
-2024-12-12|20:40:00|Payment|Netflix|-362.21
-2024-12-13|02:53:02|Deposit|Venmo|965.56
-2024-12-14|00:49:08|Deposit|PayPal|579.72
-2024-12-14|20:27:03|Payment|Subway|-664.39
-2024-12-15|09:35:51|Deposit|Work|816.35
-2024-12-15|11:45:04|Purchase|Best Buy|-65.73
-2024-12-15|22:31:48|Purchase|Netflix|-148.21
-2024-12-16|00:58:12|Payment|Subway|-519.11
-2024-12-16|16:55:58|Deposit|Work|435.47
-2024-12-16|18:17:56|Deposit|PayPal|316.92
-2024-12-17|00:27:33|Deposit|Work|346.85
-2024-12-17|18:57:07|Deposit|Venmo|299.98
-2024-12-18|03:14:47|Payment|DoorDash|-404.90
-2024-12-18|13:05:19|Purchase|Netflix|-596.56
-2024-12-18|19:48:57|Deposit|Venmo|751.42
-2024-12-18|20:31:39|Deposit|PayPal|677.10
-2024-12-19|00:09:21|Deposit|Work|238.84
-2024-12-19|03:57:10|Deposit|Work|698.35
-2024-12-20|00:56:49|Deposit|Work|850.19
-2024-12-20|09:12:40|Payment|Google|-488.65
-2024-12-20|19:14:13|Purchase|Home Depot|-169.01
-2024-12-21|02:28:40|Deposit|Venmo|520.53
-2024-12-21|08:43:44|Payment|Spotify|-217.97
-2024-12-21|22:31:14|Purchase|Shell Gas|-909.65
-2024-12-22|17:37:50|Purchase|Best Buy|-522.98
-2024-12-23|01:13:35|Purchase|Subway|-530.54
-2024-12-23|01:14:22|Deposit|PayPal|573.03
-2024-12-23|09:18:43|Deposit|Work|575.31
-2024-12-23|11:53:58|Deposit|Venmo|362.09
-2024-12-23|15:52:57|Deposit|Venmo|514.07
-2024-12-23|16:49:00|Payment|BP Gas Station|-770.52
-2024-12-23|22:06:43|Purchase|Lyft|-525.86
-2024-12-24|00:23:39|Payment|Best Buy|-319.03
-2024-12-24|08:15:23|Payment|Subway|-903.57
-2024-12-24|20:24:20|Deposit|PayPal|48.34
-2024-12-25|00:20:12|Purchase|Walmart|-741.74
-2024-12-25|00:53:44|Purchase|Target|-171.25
-2024-12-25|01:17:48|Payment|Google|-912.47
-2024-12-25|03:52:35|Purchase|Panera Bread|-199.57
-2024-12-25|08:14:01|Payment|Home Depot|-793.33
-2024-12-25|15:57:47|Deposit|Venmo|61.86
-2024-12-27|18:36:39|Deposit|PayPal|382.75
-2024-12-27|19:15:50|Payment|Shell Gas|-271.26
-2024-12-28|03:01:39|Purchase|Subway|-459.02
-2024-12-28|06:18:12|Deposit|PayPal|961.09
-2024-12-28|07:14:27|Deposit|PayPal|736.74
-2024-12-28|09:31:31|Deposit|Work|921.28
-2024-12-28|17:12:16|Purchase|Best Buy|-430.12
-2024-12-29|03:20:53|Purchase|McDonald's|-231.61
-2024-12-29|08:45:23|Payment|Starbucks|-107.07
-2024-12-30|20:51:55|Payment|Domino's Pizza|-355.23
-2024-12-31|02:40:47|Deposit|PayPal|716.03
-2024-12-31|09:52:50|Deposit|PayPal|591.33
-2024-12-31|13:19:54|Payment|CVS Pharmacy|-993.39
-2025-01-01|01:13:04|Deposit|Work|713.40
-2025-01-01|14:46:44|Deposit|Venmo|904.09
-2025-01-02|02:59:06|Purchase|Walmart|-545.30
-2025-01-02|19:16:58|Deposit|Venmo|625.16
-2025-01-02|19:19:15|Purchase|Target|-794.35
-2025-01-02|23:34:58|Payment|eBay|-608.21
-2025-01-03|00:10:20|Payment|Uber Eats|-64.61
-2025-01-03|01:04:15|Deposit|Work|939.02
-2025-01-03|16:42:48|Deposit|Work|848.34
-2025-01-04|05:32:31|Purchase|BP Gas Station|-608.33
-2025-01-04|22:25:41|Payment|Shell Gas|-416.65
-2025-01-05|04:15:50|Deposit|Work|138.32
-2025-01-05|18:33:54|Purchase|Spotify|-254.88
-2025-01-05|22:05:50|Purchase|Walmart|-721.12
-2025-01-06|00:26:18|Deposit|Work|585.09
-2025-01-06|07:51:17|Deposit|PayPal|134.07
-2025-01-06|17:36:33|Payment|Subway|-465.58
-2025-01-07|05:35:44|Payment|Walmart|-64.45
-2025-01-08|03:15:49|Deposit|Venmo|70.76
-2025-01-08|17:21:29|Deposit|PayPal|125.44
-2025-01-09|07:05:36|Purchase|McDonald's|-371.47
-2025-01-09|23:58:54|Payment|Shell Gas|-406.60
-2025-01-10|08:58:51|Deposit|PayPal|553.48
-2025-01-10|09:23:56|Deposit|Venmo|321.89
-2025-01-10|11:51:26|Purchase|Spotify|-201.18
-2025-01-10|23:17:02|Deposit|PayPal|423.23
-2025-01-11|08:10:08|Payment|DoorDash|-819.01
-2025-01-12|00:41:56|Purchase|Starbucks|-946.49
-2025-01-12|04:02:58|Purchase|Uber Eats|-875.69
-2025-01-13|03:16:18|Purchase|Starbucks|-79.72
-2025-01-13|10:34:12|Deposit|Venmo|600.85
-2025-01-13|16:20:06|Deposit|PayPal|497.31
-2025-01-13|20:23:44|Deposit|Venmo|144.52
-2025-01-14|09:19:17|Payment|Best Buy|-472.47
-2025-01-15|02:40:30|Payment|Amazon|-668.63
-2025-01-16|15:53:29|Purchase|Target|-184.87
-2025-01-16|16:09:05|Deposit|Venmo|421.16
-2025-01-17|15:30:25|Payment|BP Gas Station|-595.57
-2025-01-17|20:46:27|Deposit|PayPal|381.26
-2025-01-18|07:22:54|Deposit|Venmo|772.64
-2025-01-18|11:48:38|Purchase|Amazon|-904.77
-2025-01-18|13:48:54|Deposit|PayPal|381.04
-2025-01-18|21:52:08|Purchase|Walmart|-894.37
-2025-01-20|07:58:58|Purchase|Costco|-286.81
-2025-01-20|13:18:21|Deposit|Work|918.17
-2025-01-20|14:20:39|Purchase|Starbucks|-969.18
-2025-01-20|19:49:46|Deposit|Venmo|220.39
-2025-01-20|22:23:15|Payment|Google|-219.75
-2025-01-21|05:06:34|Purchase|Lyft|-130.21
-2025-01-21|20:27:43|Deposit|Work|159.23
-2025-01-22|04:00:39|Payment|Amazon|-694.56
-2025-01-22|05:16:18|Purchase|Subway|-651.52
-2025-01-22|12:03:52|Purchase|Shell Gas|-955.55
-2025-01-23|02:17:41|Purchase|Shell Gas|-459.88
-2025-01-23|03:28:56|Deposit|Venmo|311.03
-2025-01-23|05:33:15|Deposit|PayPal|305.80
-2025-01-23|13:49:52|Deposit|Venmo|385.24
-2025-01-23|18:31:34|Purchase|BP Gas Station|-129.77
-2025-01-24|01:38:04|Payment|Starbucks|-808.92
-2025-01-24|07:22:53|Deposit|Venmo|680.71
-2025-01-24|10:42:47|Deposit|PayPal|892.95
-2025-01-24|11:39:34|Deposit|PayPal|875.01
-2025-01-24|16:45:57|Deposit|Work|699.46
-2025-01-24|21:57:43|Purchase|Netflix|-255.04
-2025-01-25|03:31:08|Deposit|Venmo|155.43
-2025-01-25|11:16:10|Deposit|PayPal|839.82
-2025-01-25|12:17:55|Deposit|Venmo|508.23
-2025-01-25|21:10:35|Deposit|Work|681.64
-2025-01-25|22:49:21|Deposit|Venmo|98.44
-2025-01-26|13:51:57|Deposit|Venmo|144.36
-2025-01-26|15:05:56|Deposit|PayPal|186.90
-2025-01-26|18:08:41|Deposit|Venmo|71.66
-2025-01-27|06:12:40|Deposit|PayPal|521.05
-2025-01-27|12:06:25|Purchase|Netflix|-849.05
-2025-01-28|00:54:22|Payment|DoorDash|-172.97
-2025-01-28|15:44:50|Deposit|Work|852.50
-2025-01-28|19:47:31|Deposit|Work|124.64
-2025-01-28|21:03:36|Deposit|PayPal|905.01
-2025-01-28|21:49:08|Deposit|Venmo|698.34
-2025-01-29|05:50:39|Deposit|PayPal|110.89
-2025-01-29|06:33:48|Deposit|Work|473.44
-2025-01-29|06:39:18|Deposit|Work|935.36
-2025-01-29|09:33:18|Purchase|Panera Bread|-504.29
-2025-01-30|00:18:30|Purchase|Walmart|-442.08
-2025-01-30|13:03:08|Purchase|BP Gas Station|-566.58
-2025-01-31|00:36:39|Deposit|Work|122.18
-2025-01-31|09:47:57|Payment|Apple|-367.33
-2025-01-31|23:10:00|Payment|Domino's Pizza|-102.98
-2025-02-01|02:40:44|Purchase|Costco|-463.84
-2025-02-01|07:12:50|Deposit|PayPal|704.59
-2025-02-01|07:32:08|Payment|DoorDash|-399.02
-2025-02-02|12:15:39|Payment|Apple|-787.45
-2025-02-02|13:49:31|Deposit|Venmo|766.36
-2025-02-02|16:43:27|Payment|Google|-406.62
-2025-02-02|17:10:04|Purchase|Domino's Pizza|-850.51
-2025-02-02|18:48:16|Purchase|BP Gas Station|-409.12
-2025-02-02|22:30:26|Payment|Costco|-51.78
-2025-02-03|02:34:10|Payment|Netflix|-41.90
-2025-02-03|04:08:57|Payment|Shell Gas|-436.10
-2025-02-03|06:49:14|Deposit|Work|236.66
-2025-02-03|08:39:44|Payment|eBay|-542.26
-2025-02-03|20:19:04|Purchase|Airbnb|-243.45
-2025-02-04|04:27:22|Payment|Subway|-458.01
-2025-02-05|12:28:46|Payment|Amazon|-448.12
-2025-02-05|14:01:55|Payment|Starbucks|-577.56
-2025-02-05|17:27:18|Purchase|CVS Pharmacy|-294.08
-2025-02-05|19:32:51|Purchase|Target|-997.61
-2025-02-06|15:51:05|Deposit|Work|959.30
-2025-02-07|10:04:00|Deposit|PayPal|381.91
-2025-02-07|16:29:07|Payment|Walmart|-225.55
-2025-02-08|23:32:17|Deposit|Venmo|998.79
-2025-02-09|01:04:38|Deposit|Work|806.39
-2025-02-10|01:08:28|Deposit|Venmo|616.94
-2025-02-11|04:23:24|Deposit|Work|710.28
-2025-02-11|08:02:29|Deposit|Venmo|738.16
-2025-02-11|08:44:21|Deposit|PayPal|456.17
-2025-02-12|07:05:56|Payment|Walgreens|-910.26
-2025-02-12|11:11:09|Purchase|Starbucks|-941.69
-2025-02-12|12:07:27|Purchase|eBay|-428.89
-2025-02-12|12:41:15|Purchase|Shell Gas|-220.10
-2025-02-12|16:37:25|Purchase|CVS Pharmacy|-269.77
-2025-02-13|05:42:07|Purchase|Apple|-425.14
-2025-02-13|15:58:33|Deposit|Venmo|110.60
-2025-02-13|17:30:56|Deposit|PayPal|634.22
-2025-02-14|07:39:29|Deposit|Venmo|185.20
-2025-02-14|11:55:37|Deposit|Work|145.11
-2025-02-14|21:26:31|Purchase|Starbucks|-701.34
-2025-02-16|15:44:10|Deposit|PayPal|427.87
-2025-02-16|16:19:41|Payment|eBay|-104.10
-2025-02-17|21:39:37|Deposit|Work|128.80
-2025-02-18|03:22:13|Purchase|Starbucks|-278.54
-2025-02-18|06:20:55|Deposit|Venmo|989.19
-2025-02-18|08:55:13|Deposit|Venmo|668.97
-2025-02-18|11:14:14|Purchase|Starbucks|-849.50
-2025-02-18|14:14:05|Deposit|Venmo|74.75
-2025-02-18|17:46:06|Deposit|Venmo|915.72
-2025-02-18|20:21:57|Deposit|PayPal|612.06
-2025-02-18|21:52:06|Purchase|Target|-902.15
-2025-02-18|23:32:40|Payment|DoorDash|-744.67
-2025-02-19|03:47:28|Payment|Lyft|-921.67
-2025-02-20|16:17:14|Deposit|PayPal|975.25
-2025-02-21|03:55:27|Deposit|Work|885.87
-2025-02-21|09:46:05|Deposit|PayPal|939.34
-2025-02-21|12:56:34|Payment|Domino's Pizza|-204.91
-2025-02-22|04:54:51|Purchase|Airbnb|-294.95
-2025-02-22|05:25:54|Deposit|Venmo|353.22
-2025-02-22|08:32:32|Deposit|Venmo|692.97
-2025-02-22|11:28:53|Deposit|Venmo|24.97
-2025-02-22|21:48:55|Deposit|Venmo|148.11
-2025-02-23|01:39:44|Deposit|PayPal|295.26
-2025-02-23|05:38:17|Purchase|Best Buy|-816.49
-2025-02-23|14:22:25|Purchase|Airbnb|-221.80
-2025-02-23|17:53:37|Deposit|Venmo|91.06
-2025-02-23|23:39:35|Payment|Walmart|-427.89
-2025-02-24|14:06:34|Deposit|Work|339.70
-2025-02-25|04:30:49|Payment|Target|-785.42
-2025-02-25|16:33:11|Deposit|PayPal|916.64
-2025-02-25|21:01:03|Deposit|Work|395.61
-2025-02-27|14:23:39|Payment|McDonald's|-506.88
-2025-02-27|17:32:00|Deposit|PayPal|949.99
-2025-02-28|03:11:05|Deposit|Venmo|883.10
-2025-02-28|18:56:44|Payment|Netflix|-315.73
-2025-02-28|20:16:47|Payment|Walmart|-407.92
-2025-03-01|06:57:57|Purchase|Best Buy|-389.07
-2025-03-01|11:20:20|Deposit|PayPal|737.95
-2025-03-01|14:00:38|Purchase|Airbnb|-574.13
-2025-03-02|02:06:27|Payment|Netflix|-476.37
-2025-03-02|06:45:37|Deposit|Venmo|891.32
-2025-03-02|23:26:50|Deposit|Venmo|342.67
-2025-03-03|01:47:12|Deposit|Venmo|964.81
-2025-03-03|22:28:21|Deposit|Venmo|159.13
-2025-03-04|03:57:46|Payment|Home Depot|-856.77
-2025-03-04|08:47:28|Payment|Home Depot|-821.22
-2025-03-04|09:27:33|Purchase|Best Buy|-446.25
-2025-03-04|23:01:15|Payment|Shell Gas|-996.30
-2025-03-05|05:44:13|Deposit|PayPal|454.86
-2025-03-05|17:39:25|Deposit|Work|454.09
-2025-03-06|01:30:41|Payment|Costco|-442.10
-2025-03-06|06:02:08|Deposit|Work|761.65
-2025-03-06|06:43:55|Deposit|PayPal|847.39
-2025-03-06|09:16:23|Deposit|Work|798.40
-2025-03-06|14:32:46|Purchase|CVS Pharmacy|-319.28
-2025-03-06|16:41:20|Payment|Spotify|-583.30
-2025-03-06|21:37:04|Deposit|Venmo|673.00
-2025-03-07|04:50:49|Deposit|Work|884.31
-2025-03-07|18:26:00|Payment|Shell Gas|-487.37
-2025-03-08|05:43:35|Deposit|Work|555.81
-2025-03-08|10:17:15|Payment|eBay|-37.22
-2025-03-08|14:36:19|Deposit|PayPal|544.69
-2025-03-09|00:42:22|Purchase|Home Depot|-727.38
-2025-03-09|19:56:31|Payment|Google|-664.04
-2025-03-10|04:05:39|Deposit|Work|423.32
-2025-03-10|04:23:34|Deposit|Venmo|712.62
-2025-03-10|22:28:19|Deposit|Venmo|29.41
-2025-03-11|07:35:34|Payment|Panera Bread|-983.02
-2025-03-11|10:47:15|Deposit|Work|575.36
-2025-03-11|17:24:52|Deposit|PayPal|979.75
-2025-03-12|01:40:35|Purchase|BP Gas Station|-722.65
-2025-03-12|10:45:51|Deposit|PayPal|499.16
-2025-03-14|09:06:34|Deposit|Venmo|273.64
-2025-03-14|09:18:34|Deposit|Venmo|605.81
-2025-03-14|14:59:52|Deposit|PayPal|481.41
-2025-03-15|07:34:29|Purchase|Target|-847.23
-2025-03-15|09:46:16|Payment|Amazon|-843.62
-2025-03-15|14:54:23|Deposit|Venmo|823.12
-2025-03-16|06:13:11|Purchase|BP Gas Station|-154.20
-2025-03-16|06:28:32|Deposit|Work|672.51
-2025-03-16|07:03:34|Deposit|Work|234.58
-2025-03-16|10:12:28|Deposit|Work|801.21
-2025-03-18|10:09:03|Purchase|eBay|-890.74
-2025-03-18|10:49:24|Payment|McDonald's|-989.63
-2025-03-18|20:53:51|Deposit|PayPal|789.16
-2025-03-19|10:58:08|Purchase|DoorDash|-984.18
-2025-03-19|14:29:00|Deposit|PayPal|151.73
-2025-03-19|16:53:52|Purchase|Uber Eats|-366.67
-2025-03-19|19:49:51|Purchase|DoorDash|-995.52
-2025-03-21|23:23:02|Purchase|Airbnb|-332.47
-2025-03-22|03:29:13|Deposit|PayPal|602.98
-2025-03-22|04:40:14|Payment|Home Depot|-808.87
-2025-03-22|19:42:36|Deposit|Venmo|269.24
-2025-03-23|01:14:36|Purchase|Uber Eats|-488.33
-2025-03-23|01:48:45|Deposit|Venmo|623.35
-2025-03-23|06:59:13|Purchase|Airbnb|-202.91
-2025-03-24|13:32:44|Purchase|Google|-326.75
-2025-03-24|21:18:28|Deposit|Work|82.11
-2025-03-25|00:29:44|Deposit|Venmo|963.06
-2025-03-25|00:59:36|Payment|Netflix|-349.61
-2025-03-25|04:17:46|Payment|Best Buy|-662.52
-2025-03-25|12:16:03|Deposit|Work|707.59
-2025-03-25|19:50:48|Deposit|Work|554.60
-2025-03-26|04:59:25|Payment|Subway|-923.60
-2025-03-26|10:36:58|Payment|Costco|-788.57
-2025-03-26|21:30:54|Deposit|PayPal|287.17
-2025-03-27|03:24:56|Deposit|Venmo|389.96
-2025-03-28|20:07:23|Deposit|PayPal|84.50
-2025-03-28|20:57:29|Deposit|Work|407.67
-2025-03-29|06:54:00|Deposit|Work|722.20
-2025-03-29|16:11:06|Purchase|Domino's Pizza|-54.42
-2025-03-29|19:53:29|Purchase|Shell Gas|-674.85
-2025-03-29|21:20:56|Payment|Walmart|-532.71
-2025-03-30|04:45:43|Deposit|Venmo|871.21
-2025-03-30|05:50:22|Purchase|DoorDash|-782.34
-2025-03-30|17:27:22|Deposit|Work|67.96
-2025-03-31|02:36:39|Deposit|PayPal|68.73
-2025-03-31|11:42:46|Payment|Home Depot|-393.87
-2025-03-31|16:43:33|Deposit|Venmo|19.89
-2025-03-31|17:55:59|Deposit|Work|74.06
-2025-03-31|21:32:07|Deposit|Work|345.71
-2025-04-01|05:28:32|Deposit|Work|362.39
-2025-04-01|14:31:30|Purchase|Chipotle|-408.95
-2025-04-01|18:48:34|Payment|Panera Bread|-282.67
-2025-04-02|01:58:09|Payment|eBay|-773.66
-2025-04-02|23:39:43|Payment|Panera Bread|-250.01
-2025-04-03|00:38:26|Payment|Target|-983.68
-2025-04-03|03:38:29|Deposit|Work|954.55
-2025-04-03|04:51:23|Payment|Google|-333.05
-2025-04-03|14:06:13|Payment|Starbucks|-334.00
-2025-04-04|00:19:26|Deposit|PayPal|756.70
-2025-04-04|01:36:36|Deposit|Venmo|720.83
-2025-04-04|04:16:31|Purchase|CVS Pharmacy|-284.12
-2025-04-04|09:49:59|Payment|DoorDash|-71.02
-2025-04-05|01:58:27|Payment|Target|-455.21
-2025-04-05|05:03:50|Deposit|PayPal|256.66
-2025-04-06|03:33:59|Payment|BP Gas Station|-527.96
-2025-04-06|23:32:37|Deposit|Venmo|859.23
-2025-04-07|00:58:43|Purchase|BP Gas Station|-251.10
-2025-04-07|01:20:19|Purchase|Costco|-680.19
-2025-04-07|04:03:50|Deposit|PayPal|413.11
-2025-04-07|06:03:53|Deposit|PayPal|693.55
-2025-04-07|17:36:13|Deposit|Work|26.38
-2025-04-07|18:45:23|Deposit|Venmo|451.13
-2025-04-08|14:47:49|Deposit|PayPal|374.60
-2025-04-09|07:19:31|Deposit|Work|936.05
-2025-04-09|14:48:32|Payment|Shell Gas|-848.05
-2025-04-09|17:34:40|Deposit|PayPal|284.81
-2025-04-09|19:46:45|Payment|Amazon|-818.43
-2025-04-09|19:56:11|Payment|Google|-797.38
-2025-04-10|04:54:57|Payment|BP Gas Station|-541.98
-2025-04-10|07:39:12|Purchase|Domino's Pizza|-771.42
-2025-04-10|12:55:40|Deposit|PayPal|814.60
-2025-04-10|23:07:09|Deposit|Venmo|707.02
-2025-04-11|05:55:06|Deposit|Work|556.10
-2025-04-11|14:55:08|Purchase|Walgreens|-659.23
-2025-04-12|01:32:42|Deposit|Venmo|643.84
-2025-04-12|03:17:24|Payment|CVS Pharmacy|-451.00
-2025-04-12|03:55:13|Deposit|Work|839.57
-2025-04-12|09:20:36|Payment|eBay|-630.94
-2025-04-12|09:52:53|Deposit|Venmo|302.29
-2025-04-12|11:49:51|Purchase|eBay|-481.26
-2025-04-12|11:51:53|Payment|Home Depot|-497.97
-2025-04-12|23:06:06|Deposit|Venmo|528.51
-2025-04-13|02:42:48|Payment|Domino's Pizza|-271.22
-2025-04-13|02:51:50|Deposit|PayPal|550.28
-2025-04-14|00:33:59|Purchase|eBay|-447.84
-2025-04-14|08:56:18|Payment|Shell Gas|-267.20
-2025-04-14|10:48:47|Deposit|Work|157.65
-2025-04-14|16:52:16|Deposit|Venmo|560.19
-2025-04-14|16:54:13|Deposit|Work|501.73
-2025-04-15|00:02:34|Deposit|PayPal|109.44
-2025-04-15|02:11:33|Deposit|Work|616.83
-2025-04-15|16:06:03|Purchase|Starbucks|-30.74
-2025-04-16|02:31:42|Deposit|PayPal|878.97
-2025-04-16|13:14:29|Payment|Subway|-303.01
-2025-04-16|14:37:05|Deposit|Work|802.57
-2025-04-17|01:08:37|Purchase|Spotify|-123.17
-2025-04-17|15:00:56|Purchase|Spotify|-700.65
-2025-04-17|20:45:41|Payment|Shell Gas|-264.62
-2025-04-18|15:35:12|Purchase|Google|-546.13
-2025-04-18|23:39:25|Payment|Panera Bread|-192.33
-2025-04-19|10:31:37|Purchase|BP Gas Station|-589.42
-2025-04-19|14:48:26|Deposit|PayPal|951.11
-2025-04-20|14:37:21|Deposit|PayPal|394.19
-2025-04-20|18:00:47|Purchase|Subway|-831.79
-2025-04-20|19:51:34|Deposit|Venmo|890.88
-2025-04-21|12:30:45|Deposit|PayPal|947.66
-2025-04-21|16:50:50|Purchase|Panera Bread|-604.88
-2025-04-22|00:44:39|Deposit|PayPal|286.12
-2025-04-22|02:29:48|Deposit|Venmo|490.79
-2025-04-22|05:09:29|Deposit|PayPal|323.90
-2025-04-22|08:55:36|Payment|Chipotle|-721.67
-2025-04-22|12:11:14|Deposit|Venmo|404.87
-2025-04-22|13:01:04|Deposit|Work|350.47
-2025-04-22|20:03:42|Deposit|PayPal|997.53
-2025-04-23|07:40:38|Purchase|DoorDash|-711.42
-2025-04-23|11:27:00|Purchase|Walmart|-74.73
-2025-04-23|14:51:24|Payment|Home Depot|-537.79
-2025-04-23|17:54:21|Payment|Shell Gas|-716.37
-2025-04-24|12:50:19|Deposit|Work|684.37
-2025-04-25|04:28:01|Deposit|PayPal|882.18
-2025-04-25|05:25:11|Purchase|Walmart|-932.89
-2025-04-26|11:08:08|Deposit|Venmo|45.94
-2025-04-26|13:09:28|Purchase|Walgreens|-27.05
-2025-04-27|11:54:09|Deposit|PayPal|984.45
-2025-04-27|14:06:08|Purchase|Target|-555.89
-2025-04-27|14:58:31|Deposit|Work|38.41
-2025-04-27|21:56:16|Deposit|Work|894.74
-2025-04-28|15:32:38|Deposit|Venmo|323.82
-2025-05-01|19:50:43|potato chips|Lays|20.00
-2025-05-01|19:51:51|Bus Fare|Busline|-5.00
+2025-04-30|06:58:47|Deposit|PayPal|61.82
+2025-04-25|23:08:58|Purchase|Domino's Pizza|-410.23
+2025-04-25|15:17:34|Deposit|Work|155.95
+2025-04-25|10:38:23|Deposit|Work|452.90
+2025-04-24|23:11:05|Deposit|Work|660.53
+2025-04-23|12:40:46|Purchase|Walmart|-336.09
+2025-04-21|19:35:31|Purchase|Panera Bread|-362.29
+2025-04-19|02:43:33|Deposit|Work|620.24
+2025-04-17|07:36:06|Deposit|Work|702.59
+2025-04-09|04:27:43|Purchase|Target|-876.92
+2025-04-09|02:11:44|Deposit|Work|297.44
+2025-04-08|18:58:47|Deposit|PayPal|28.54
+2025-04-06|19:28:04|Payment|BP Gas Station|-129.94
+2025-04-03|00:57:49|Deposit|Venmo|360.17
+2025-03-31|03:37:03|Payment|Airbnb|-641.92
+2025-03-28|12:42:28|Deposit|PayPal|154.19
+2025-03-28|09:00:56|Purchase|Walmart|-620.34
+2025-03-25|07:39:47|Payment|Best Buy|-635.74
+2025-03-16|14:06:21|Deposit|Work|49.26
+2025-03-16|06:06:38|Purchase|Starbucks|-462.68
+2025-03-16|03:10:19|Deposit|Venmo|348.76
+2025-03-15|22:31:36|Deposit|Work|147.01
+2025-03-13|21:37:40|Payment|Subway|-200.91
+2025-03-13|01:48:41|Deposit|Venmo|24.58
+2025-03-11|23:31:29|Deposit|Venmo|91.40
+2025-03-08|06:18:39|Deposit|Work|219.74
+2025-03-08|00:57:38|Purchase|Uber Eats|-190.15
+2025-03-06|12:34:12|Deposit|Work|692.90
+2025-03-04|12:16:21|Deposit|Work|495.47
+2025-03-01|09:51:10|Deposit|Venmo|693.81
+2025-02-28|12:43:22|Deposit|PayPal|809.81
+2025-02-24|08:30:36|Deposit|Work|219.07
+2025-02-24|04:03:38|Deposit|PayPal|472.27
+2025-02-21|07:22:16|Deposit|PayPal|759.23
+2025-02-16|18:42:01|Purchase|Costco|-926.34
+2025-02-16|16:26:35|Deposit|Work|945.01
+2025-02-16|16:24:17|Deposit|Venmo|976.27
+2025-02-15|02:59:01|Deposit|PayPal|863.39
+2025-02-13|14:27:28|Payment|Uber Eats|-507.29
+2025-02-02|15:30:11|Payment|Best Buy|-900.05
+2025-02-01|20:48:21|Purchase|Walmart|-481.72
+2025-02-01|11:26:53|Purchase|Apple|-346.12
+2025-01-31|21:01:38|Purchase|Starbucks|-627.64
+2025-01-31|19:13:38|Purchase|Lyft|-232.85
+2025-01-29|20:49:04|Payment|Google|-751.96
+2025-01-28|08:17:35|Deposit|Venmo|341.85
+2025-01-24|16:16:21|Deposit|PayPal|711.99
+2025-01-23|10:42:57|Payment|Starbucks|-358.69
+2025-01-20|23:52:38|Deposit|PayPal|506.03
+2025-01-17|19:53:37|Deposit|Work|991.89
+2025-01-16|22:59:51|Purchase|Target|-915.30
+2025-01-14|07:48:07|Deposit|PayPal|100.52
+2025-01-12|02:02:11|Payment|Google|-874.02
+2025-01-10|13:20:58|Purchase|Home Depot|-534.49
+2025-01-10|00:23:50|Purchase|Airbnb|-905.21
+2025-01-09|12:38:01|Deposit|PayPal|682.96
+2025-01-05|21:02:33|Deposit|Work|682.08
+2025-01-01|12:38:05|Payment|eBay|-63.29
+2024-12-30|14:33:56|Payment|Amazon|-290.05
+2024-12-30|10:49:30|Purchase|Apple|-838.40
+2024-12-30|02:52:55|Deposit|PayPal|381.28
+2024-12-27|02:49:58|Purchase|Netflix|-632.19
+2024-12-24|21:29:22|Purchase|Chipotle|-924.12
+2024-12-24|17:55:09|Payment|Apple|-526.80
+2024-12-18|12:35:14|Deposit|PayPal|655.93
+2024-12-09|05:26:04|Deposit|PayPal|615.51
+2024-12-08|03:58:21|Deposit|PayPal|409.85
+2024-12-06|04:14:04|Deposit|Work|90.72
+2024-12-05|22:17:46|Payment|McDonald's|-301.08
+2024-12-04|10:51:13|Deposit|Work|805.25
+2024-12-01|14:10:05|Deposit|PayPal|457.42
+2024-11-30|20:45:43|Deposit|PayPal|910.01
+2024-11-28|11:08:48|Payment|Lyft|-392.09
+2024-11-24|05:28:36|Purchase|Subway|-637.73
+2024-11-23|22:48:00|Deposit|Venmo|44.33
+2024-11-22|23:43:20|Deposit|PayPal|293.71
+2024-11-22|09:14:45|Payment|eBay|-699.10
+2024-11-21|19:57:38|Purchase|Starbucks|-471.74
+2024-11-21|19:10:27|Purchase|Uber Eats|-601.59
+2024-11-18|17:47:56|Deposit|Work|486.57
+2024-11-17|21:04:22|Deposit|Work|940.22
+2024-11-16|00:08:30|Purchase|Shell Gas|-200.83
+2024-11-15|08:03:41|Purchase|Uber Eats|-414.18
+2024-11-14|06:59:05|Payment|McDonald's|-309.99
+2024-11-13|09:52:00|Purchase|Chipotle|-949.13
+2024-11-12|07:10:40|Payment|Apple|-884.50
+2024-11-12|02:40:30|Deposit|PayPal|127.60
+2024-11-10|15:50:25|Deposit|Work|923.27
+2024-11-10|04:00:45|Purchase|Costco|-301.03
+2024-11-08|08:37:09|Payment|Airbnb|-882.32
+2024-11-06|22:47:23|Payment|Apple|-269.74
+2024-11-06|13:17:12|Purchase|Home Depot|-668.49
+2024-11-04|04:11:05|Deposit|Work|327.67
+2024-11-03|01:41:18|Deposit|PayPal|691.17
+2024-10-29|14:04:31|Deposit|Venmo|539.64
+2024-10-29|09:26:49|Purchase|McDonald's|-258.56
+2024-10-29|07:56:59|Purchase|DoorDash|-480.07
+2024-10-24|22:33:55|Deposit|PayPal|161.69
+2024-10-24|20:20:15|Deposit|PayPal|290.44
+2024-10-24|00:06:00|Deposit|PayPal|25.38
+2024-10-23|16:24:03|Purchase|Subway|-129.32
+2024-10-23|07:15:59|Deposit|Work|110.91
+2024-10-22|08:34:10|Deposit|PayPal|162.99
+2024-10-22|08:02:41|Deposit|PayPal|882.74
+2024-10-22|05:04:57|Payment|Domino's Pizza|-636.61
+2024-10-18|18:23:47|Deposit|Work|585.22
+2024-10-12|23:00:55|Deposit|PayPal|879.76
+2024-10-12|14:36:52|Deposit|Work|971.30
+2024-10-11|05:46:25|Purchase|Best Buy|-636.79
+2024-10-08|13:29:23|Purchase|Lyft|-427.50
+2024-10-07|02:36:10|Purchase|Netflix|-417.41
+2024-10-06|09:09:59|Deposit|Work|248.88
+2024-10-05|08:44:28|Deposit|Work|694.02
+2024-10-04|23:06:27|Payment|eBay|-252.70
+2024-10-03|04:49:54|Purchase|DoorDash|-123.05
+2024-10-02|14:54:11|Payment|Costco|-997.25
+2024-09-21|20:03:03|Deposit|PayPal|426.53
+2024-09-18|09:12:43|Deposit|PayPal|220.31
+2024-09-16|14:09:55|Deposit|PayPal|431.04
+2024-09-16|01:52:16|Payment|Google|-281.35
+2024-09-14|12:58:14|Deposit|Venmo|476.17
+2024-09-14|01:42:27|Payment|Home Depot|-564.74
+2024-09-13|08:02:25|Purchase|Spotify|-555.61
+2024-09-11|11:07:44|Deposit|Work|585.34
+2024-09-02|12:34:03|Deposit|PayPal|30.86
+2024-09-01|18:31:38|Deposit|PayPal|285.90
+2024-08-31|19:00:18|Purchase|Chipotle|-86.24
+2024-08-30|10:33:42|Deposit|PayPal|605.56
+2024-08-29|12:50:51|Deposit|Venmo|150.68
+2024-08-23|22:30:23|Deposit|Work|544.97
+2024-08-23|15:05:29|Payment|Amazon|-164.14
+2024-08-22|11:24:05|Purchase|Google|-409.76
+2024-08-21|07:10:18|Deposit|Venmo|240.34
+2024-08-20|19:16:56|Payment|Google|-617.25
+2024-08-20|17:47:58|Deposit|Venmo|649.62
+2024-08-19|11:09:11|Purchase|Costco|-271.48
+2024-08-19|09:44:32|Deposit|Venmo|789.07
+2024-08-18|06:42:11|Purchase|Subway|-784.44
+2024-08-17|19:20:07|Purchase|Amazon|-737.86
+2024-08-17|16:18:15|Purchase|Netflix|-688.87
+2024-08-16|07:42:36|Deposit|Venmo|324.26
+2024-08-11|19:56:43|Purchase|Home Depot|-307.86
+2024-08-07|00:14:43|Deposit|Work|391.95
+2024-08-06|17:17:13|Purchase|Apple|-697.02
+2024-08-03|02:37:30|Deposit|Work|752.20
+2024-08-01|19:53:54|Payment|Apple|-868.68
+2024-08-01|16:38:37|Payment|Shell Gas|-421.49
+2024-07-27|19:52:01|Purchase|Starbucks|-872.87
+2024-07-27|03:43:53|Deposit|PayPal|84.76
+2024-07-25|23:42:52|Deposit|PayPal|532.58
+2024-07-25|21:33:36|Payment|Domino's Pizza|-54.14
+2024-07-21|14:48:17|Payment|Amazon|-918.59
+2024-07-19|11:30:18|Purchase|Costco|-676.54
+2024-07-19|06:16:38|Deposit|Venmo|538.97
+2024-07-18|22:36:48|Deposit|Work|534.71
+2024-07-18|09:11:20|Deposit|PayPal|323.28
+2024-07-16|20:42:55|Purchase|Panera Bread|-176.46
+2024-07-14|22:17:23|Deposit|Work|611.53
+2024-07-12|17:56:09|Purchase|Home Depot|-577.63
+2024-07-12|14:30:21|Deposit|PayPal|431.28
+2024-07-12|09:25:08|Deposit|Venmo|665.67
+2024-07-10|22:34:43|Purchase|DoorDash|-178.03
+2024-07-10|18:49:31|Purchase|Best Buy|-363.56
+2024-07-09|09:10:54|Purchase|Home Depot|-701.49
+2024-07-09|08:14:53|Payment|eBay|-19.07
+2024-07-07|05:08:46|Deposit|Work|457.79
+2024-07-03|15:52:43|Payment|Subway|-231.62
+2024-06-30|18:23:20|Payment|Amazon|-519.96
+2024-06-29|20:35:42|Purchase|Uber Eats|-508.73
+2024-06-29|02:28:58|Payment|Starbucks|-501.52
+2024-06-28|21:47:18|Payment|eBay|-521.49
+2024-06-24|03:15:55|Payment|Airbnb|-114.80
+2024-06-23|04:05:42|Deposit|Venmo|855.36
+2024-06-22|16:28:37|Deposit|PayPal|336.85
+2024-06-21|01:52:19|Deposit|Work|750.45
+2024-06-17|13:27:48|Deposit|Venmo|571.41
+2024-06-17|06:53:03|Deposit|PayPal|770.11
+2024-06-10|07:32:58|Payment|Google|-393.64
+2024-06-08|15:10:18|Payment|Chipotle|-501.72
+2024-06-08|02:53:15|Purchase|Shell Gas|-567.64
+2024-06-08|00:04:54|Payment|DoorDash|-850.90
+2024-06-07|19:29:58|Deposit|Work|657.87
+2024-06-02|16:42:00|Purchase|Apple|-526.49
+2024-06-01|18:14:07|Deposit|Work|898.33
+2024-05-31|18:48:58|Payment|eBay|-717.93
+2024-05-31|11:07:06|Deposit|PayPal|415.12
+2024-05-31|10:30:41|Deposit|Work|587.89
+2024-05-29|16:07:40|Purchase|Airbnb|-520.85
+2024-05-28|09:02:50|Payment|Domino's Pizza|-168.44
+2024-05-24|00:54:36|Deposit|Venmo|793.56
+2024-05-21|14:38:06|Deposit|Work|81.49
+2024-05-20|04:23:41|Deposit|Venmo|806.77
+2024-05-14|21:19:11|Purchase|Target|-107.16
+2024-05-14|09:16:04|Purchase|eBay|-935.41
+2024-05-12|19:28:52|Purchase|Uber Eats|-885.47
+2024-05-10|06:04:27|Payment|Walmart|-635.88
+2024-05-08|08:44:48|Payment|Starbucks|-359.05
+2024-05-06|06:23:16|Deposit|Venmo|573.59
+2024-05-05|06:42:57|Deposit|Work|731.02
+2024-05-04|16:35:01|Deposit|PayPal|463.88
