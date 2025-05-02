@@ -19,7 +19,7 @@ This is a simple **Java-based command-line application** for managing a personal
 - Load and display transactions from a `.csv` file on startup
 
 ---
-🧭 Application Flow
+## 🧭 Application Flow
 🏠 Home Menu
 Users can choose to make deposits, record payments, view the ledger, or quit.
 
