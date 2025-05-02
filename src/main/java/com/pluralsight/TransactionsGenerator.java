@@ -41,15 +41,15 @@ public class TransactionsGenerator {
         String filePath = "src/main/resources/transactions.csv";
 
         // Define how many fake transactions to generate
-        int numberOfTransactions = 200;
+        int numberOfTransactions = 100;
 
         // Create a list to hold the generated transactions
         ArrayList<Transaction> transactions = new ArrayList<>();
 
         // Generate fake transactions
         for (int i = 0; i < numberOfTransactions; i++) {
-            // Random date within the past 365 days
-            String date = LocalDate.now().minusDays(new Random().nextInt(365)).format(DATE_FORMAT);
+            // Random date within the past 200 days
+            String date = LocalDate.now().minusDays(new Random().nextInt(200)).format(DATE_FORMAT);
 
             // Random time within the past 24 hours
             String time = LocalTime.now().minusSeconds(new Random().nextInt(86400)).format(TIME_FORMAT);
@@ -74,7 +74,7 @@ public class TransactionsGenerator {
         }
 
         // Sort transactions by date/time (assuming Comparable implemented)
-        Collections.sort(transactions,Collections.reverseOrder());
+        transactions.sort(Collections.reverseOrder());
 
         // Write the transactions to the file
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {

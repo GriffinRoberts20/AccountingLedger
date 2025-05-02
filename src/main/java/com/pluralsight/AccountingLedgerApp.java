@@ -36,11 +36,13 @@ public class AccountingLedgerApp {
 
         // Main menu loop
         while(menuRunning) {
+            MyUtils.clearTerminal();
             // Print a divider for UI clarity
             MyUtils.printDivider(50);
 
             // Display menu header and options
-            System.out.println("Home Menu");
+            System.out.println("-".repeat(Math.max(0, 3))+"Home Menu"+"-".repeat(Math.max(0, 38)));
+            MyUtils.printDivider(50);
             System.out.println("What would you like to do today?\n   D-Add Deposit\n   P-Make Payment(Debit)\n   L-Ledger\n   X-Quit the application");
 
             // Get user's menu selection input, trim and convert it to uppercase
@@ -75,19 +77,20 @@ public class AccountingLedgerApp {
 
     public static void addDeposit(ArrayList<Transaction> transactions) {
         // Flag to keep the deposit-adding loop running
-        boolean addingPayment = true;
+        boolean addingDeposit = true;
 
         // Loop to allow multiple deposits
-        while (addingPayment) {
-
+        while (addingDeposit) {
+            MyUtils.clearTerminal();
             // Initialize boolean for checking for invalid input
             boolean gotError=false;
 
             // Print divider for visual separation
             MyUtils.printDivider(50);
+            System.out.println("-".repeat(Math.max(0, 3))+"Adding Deposit"+"-".repeat(Math.max(0, 33)));
+            MyUtils.printDivider(50);
 
             // Display deposit menu prompt
-            System.out.println("You're trying to add a deposit.");
             System.out.println("Would you like to backdate the deposit?\n   Y-Backdate Transaction\n   N-Use Current Date and Time\n   H-Cancel and Return to Home Menu");
 
             // Get user's choice for deposit input method
@@ -104,7 +107,7 @@ public class AccountingLedgerApp {
                 }
                 case "H": {
                     // Cancel and return to home menu
-                    addingPayment = false;
+                    addingDeposit = false;
                     continue;
                 }
                 default: {
@@ -128,7 +131,7 @@ public class AccountingLedgerApp {
             updateTransactions(transactions);
 
             // Exit loop
-            addingPayment = false;
+            addingDeposit = false;
         }
     }
 
@@ -138,15 +141,15 @@ public class AccountingLedgerApp {
 
         // Loop to allow multiple payments
         while (addingPayment) {
-
+            MyUtils.clearTerminal();
             // Initialize boolean for checking for invalid input
             boolean gotError=false;
 
             // Print divider for visual separation
             MyUtils.printDivider(50);
-
+            System.out.println("-".repeat(Math.max(0, 3))+"Adding Payment"+"-".repeat(Math.max(0, 33)));
+            MyUtils.printDivider(50);
             // Display payment menu prompt
-            System.out.println("You're trying to add a payment.");
             System.out.println("Would you like to backdate the payment?\n   Y-Backdate Transaction\n   N-Use Current Date and Time\n   H-Cancel and Return to Home Menu");
 
             // Get user's choice for payment input method
@@ -252,6 +255,7 @@ public class AccountingLedgerApp {
     }
 
     public static void ledgerMenu(ArrayList<Transaction> transactions) {
+        MyUtils.clearTerminal();
         // Flag to keep the ledger menu loop running
         boolean ledgerRunning = true;
 
@@ -261,22 +265,29 @@ public class AccountingLedgerApp {
             MyUtils.printDivider(50);
 
             // Display ledger menu options
-            System.out.println("Ledger Menu");
+            System.out.println("-".repeat(Math.max(0, 3))+"Ledger Menu"+"-".repeat(Math.max(0, 36)));
+            MyUtils.printDivider(50);
             System.out.println("What would you like to look at?\n   A-All\n   D-Deposits\n   P-Payments\n   R-Reports\n   H-Home Menu");
 
             // Get user's choice and convert to uppercase for consistency
             switch (MyUtils.askQuestionGetString("Enter command: ").toUpperCase().trim()) {
                 case "A": {
+                    MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"All Transactions"+"-".repeat(Math.max(0, 31)));
                     // Show all transactions
                     showAll(transactions);
                     break;
                 }
                 case "D": {
+                    MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Deposits"+"-".repeat(Math.max(0, 39)));
                     // Show only deposit transactions
                     showDeposits(transactions);
                     break;
                 }
                 case "P": {
+                    MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Payments"+"-".repeat(Math.max(0, 39)));
                     // Show only payment transactions
                     showPayments(transactions);
                     break;
@@ -310,13 +321,16 @@ public class AccountingLedgerApp {
             MyUtils.printDivider(50);
 
             // Display reports menu options
-            System.out.println("Reports Menu");
+            System.out.println("-".repeat(Math.max(0, 3))+"Reports Menu"+"-".repeat(Math.max(0, 35)));
+            MyUtils.printDivider(50);
             System.out.println("Which report would you like to look at?");
             System.out.println("   1-Month To Date\n   2-Previous Month\n   3-Year To Date\n   4-Previous Year\n   5-Search By Vendor\n   6-Custom Search\n   0-Back");
 
             // Handle user input
             switch (MyUtils.askQuestionGetString("Enter command: ").toUpperCase().trim()) {
                 case "1": { // Month To Date
+                    MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Month to Date"+"-".repeat(Math.max(0, 34)));
                     MyUtils.printDivider(50);
                     for (Transaction transaction : transactions) {
                         // Show transactions from the current month
@@ -330,6 +344,8 @@ public class AccountingLedgerApp {
                 }
                 case "2": { // Previous Month
                     MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Previous Month"+"-".repeat(Math.max(0, 33)));
+                    MyUtils.printDivider(50);
                     for (Transaction transaction : transactions) {
                         // Show transactions from the previous month
                         if (LocalDate.parse(transaction.getDate(), DATE_FORMAT).getMonth().equals(LocalDate.now().minusMonths(1).getMonth())
@@ -342,6 +358,8 @@ public class AccountingLedgerApp {
                 }
                 case "3": { // Year To Date
                     MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Year to Date"+"-".repeat(Math.max(0, 35)));
+                    MyUtils.printDivider(50);
                     for (Transaction transaction : transactions) {
                         // Show transactions from the current year
                         if (LocalDate.parse(transaction.getDate(), DATE_FORMAT).getYear() == LocalDate.now().getYear()) {
@@ -352,6 +370,8 @@ public class AccountingLedgerApp {
                     break;
                 }
                 case "4": { // Previous Year
+                    MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Previous Year"+"-".repeat(Math.max(0, 34)));
                     MyUtils.printDivider(50);
                     for (Transaction transaction : transactions) {
                         // Show transactions from the previous year
@@ -371,6 +391,8 @@ public class AccountingLedgerApp {
                             .filter(transaction -> transaction.getVendor().toLowerCase().contains(vendor))
                             .collect(Collectors.toCollection(ArrayList::new));
 
+                    MyUtils.printDivider(50);
+                    System.out.println("-".repeat(Math.max(0, 3))+"Vendor Search"+"-".repeat(Math.max(0, 34)));
                     MyUtils.printDivider(50);
 
                     // Display matching transactions
@@ -463,6 +485,8 @@ public class AccountingLedgerApp {
         if (filteredTransactions.isEmpty()) {
             System.out.println("No items match search.");
         }
+        MyUtils.printDivider(50);
+        System.out.println("-".repeat(Math.max(0, 3))+"Custom Search"+"-".repeat(Math.max(0, 34)));
         showAll(filteredTransactions);
     }
 
@@ -530,7 +554,7 @@ public class AccountingLedgerApp {
 
     public static void updateTransactions(ArrayList<Transaction> transactions) {
         // Sort transactions (assumes Transaction class implements Comparable)
-        Collections.sort(transactions,Collections.reverseOrder());
+        transactions.sort(Collections.reverseOrder());
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(transactionsFilePath))) {
             // Write header row
