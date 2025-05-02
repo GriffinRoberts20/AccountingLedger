@@ -15,6 +15,7 @@ public class Transaction implements Comparable<Transaction>{
     private static final DateTimeFormatter DATE_FORMAT = DateTimeFormatter.ofPattern("yyyy-MM-dd");
     private static final DateTimeFormatter TIME_FORMAT = DateTimeFormatter.ofPattern("HH:mm:ss");
 
+    // Constructor used when all transaction details are explicitly provided
     public Transaction(String date, String time, String description, String vendor, double amount) {
         this.date = date;
         this.time = time;
@@ -23,18 +24,21 @@ public class Transaction implements Comparable<Transaction>{
         this.amount = amount;
     }
 
+    // Overloaded constructor that sets the current date and time automatically
     public Transaction(String description, String vendor, double amount) {
-        this.date= LocalDate.now().format(DATE_FORMAT);
-        this.time= LocalTime.now().format(TIME_FORMAT);
+        this.date = LocalDate.now().format(DATE_FORMAT); // Set to today's date
+        this.time = LocalTime.now().format(TIME_FORMAT); // Set to current time
         this.description = description;
         this.vendor = vendor;
         this.amount = amount;
     }
 
-    public int compareTo(Transaction other){
-        int dateCompare = this.date.compareTo(other.date);
-        return (dateCompare != 0) ? dateCompare : this.time.compareTo(other.time);
+    // compareTo method to allow sorting of transactions by date and time
+    public int compareTo(Transaction other) {
+        int dateCompare = this.date.compareTo(other.date); // Compare by date first
+        return (dateCompare != 0) ? dateCompare : this.time.compareTo(other.time); // If dates match, compare by time
     }
+
 
     public String getDate() {
         return date;
