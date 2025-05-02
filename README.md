@@ -19,28 +19,28 @@ This is a simple **Java-based command-line application** for managing a personal
 - Load and display transactions from a `.csv` file on startup
 
 ---
-🧭 Application Flow
-🏠 Home Menu
+## 🧭 Application Flow
+🏠 Home Menu: 
 Users can choose to make deposits, record payments, view the ledger, or quit.
 
 ![image](https://github.com/user-attachments/assets/8397434e-b0d4-4979-9e14-da1c7cd1857d)
 
-➕ Add Deposit
+➕ Add Deposit: 
 Add a deposit using the current time or a custom (backdated) one.
 
 ![image](https://github.com/user-attachments/assets/9334271e-51f7-4797-93b7-cdc76fbcd604)
 
-➖ Make Payment
+➖ Make Payment: 
 Record a payment with similar options as deposits.
 
 ![image](https://github.com/user-attachments/assets/203c58a2-b3f8-4afc-9510-f497de50de08)
 
-📒 Ledger Menu
+📒 Ledger Menu: 
 View all transactions, deposits, payments, or access the reports menu.
 
 ![image](https://github.com/user-attachments/assets/6a6172c0-4fce-4491-93b9-071fd387745a)
 
-📊 Reports Menu
+📊 Reports Menu: 
 Generate various reports to analyze financial activity.
 
 ![image](https://github.com/user-attachments/assets/2af75e5a-173a-4fe6-9eae-7a6285c33203)
